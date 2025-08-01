@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/ryass/OneDrive/Documents/GitHub/MLflow_learn/mlruns/124195989036789551
+creation_time: 1754057565190
+experiment_id: '124195989036789551'
+last_update_time: 1754057565190
+lifecycle_stage: active
+name: autologging-random-forest
