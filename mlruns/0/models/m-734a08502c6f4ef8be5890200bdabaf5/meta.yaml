@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/ryass/OneDrive/Documents/GitHub/MLflow_learn/mlruns/0/models/m-734a08502c6f4ef8be5890200bdabaf5/artifacts
+creation_timestamp: 1754064554032
+experiment_id: '0'
+last_updated_timestamp: 1754064560244
+model_id: m-734a08502c6f4ef8be5890200bdabaf5
+model_type: null
+name: iris_wrapped_model
+source_run_id: d712b34d7918496da3a64330535f2731
+status: 2
+status_message: null

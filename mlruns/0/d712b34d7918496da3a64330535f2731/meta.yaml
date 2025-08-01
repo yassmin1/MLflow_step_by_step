@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/ryass/OneDrive/Documents/GitHub/MLflow_learn/mlruns/0/d712b34d7918496da3a64330535f2731/artifacts
+end_time: 1754064560326
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d712b34d7918496da3a64330535f2731
+run_name: bedecked-sheep-191
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754064553955
+status: 3
+tags: []
+user_id: ryass
